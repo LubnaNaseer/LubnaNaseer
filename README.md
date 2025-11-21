@@ -45,6 +45,6 @@
 
 <br clear="both">
 
-<img src="https://arnabghosh.hashnode.dev/add-github-dark-snake-animation-readme" alt="Snake animation" />
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif" alt="Snake animation" />
 
 ###
