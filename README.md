@@ -1,47 +1,172 @@
-<h2 align="left">Hi 👋! My name is Lubna and I am a Frontend Developer | HTML, CSS, JavaScript, Tailwind | Web Design Enthusiast</h2>
+# 🚀 Frontend Developer Projects
 
-###
+Welcome to my GitHub profile! 👋
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+This repository contains **all my frontend projects** built using **HTML, CSS, JavaScript, React, and Tailwind CSS**. Each project focuses on clean UI, responsive design, and modern frontend best practices.
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="fun gif" />
+## 🧑‍💻 About Me
 
-###
+I am a **Frontend Developer** with hands‑on experience in building modern, responsive, and user‑friendly web applications.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-</div>
+I have learned and worked with **HTML, CSS, JavaScript, React, Tailwind CSS, GSAP animations, and Firebase**. I enjoy creating clean UI, smooth animations, and interactive user experiences.
 
-###
+* 🌱 Continuously learning modern frontend technologies
+* 🎯 Focused on performance, responsiveness, and UI/UX
+* 💼 Open to learning‑based and junior frontend roles
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="youtube logo" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=9146FF&logoColor=white&style=for-the-badge" height="35" alt="twitch logo" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord logo" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
-</div>
+🔗 **GitHub:** [https://github.com/LubnaNaseer](https://github.com/LubnaNaseer)
+🔗 **LinkedIn:** [https://linkedin.com/in/lubna-naseer-34b115389](https://linkedin.com/in/lubna-naseer-34b115389)
 
-###
+---
 
-<br clear="both">
+## 🛠️ Tech Stack
 
-<img src="https://camo.githubusercontent.com/154e74646ac17b0286e754c538b39be2dfc5f5bf06dcd97aac1e143c64b5f8dc/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="Snake animation" />
+### 🚀 Languages & Core
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+### ⚛️ Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
+
+### 🎬 Animations
+
+<img src="https://skillicons.dev/icons?i=gsap" />
+
+### 🔥 Backend & Services
+
+<img src="https://skillicons.dev/icons?i=firebase" />
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+> ✅ All the above technologies are learned and practiced through real projects.
+
+---
+
+## 📂 Projects
+
+All projects in this repository are created for **practice, learning, and portfolio purposes**.
+
+### 🔹 Project Features
+
+* Responsive layouts for all screen sizes
+* Clean and reusable code structure
+* Modern UI components
+* Beginner‑friendly and scalable structure
+
+> 📌 **Note:** Each repository includes its own README with details about the project.
+
+---
+
+## 🌐 Portfolio & GitHub
+
+* 🔗 **Portfolio:** https://lubnanaseer.github.io/-frontend-portfolio/
+* 🔗 **GitHub:**https://github.com/lubnanaseer
+
+> All repositories contain projects that I personally designed and developed.
+
+---
+
+## 📸 Screenshots
+
+*Add screenshots or GIFs of yo<img width="1896" height="916" alt="medcial" src="https://github.com/user-attachments/assets/96204bcd-0b83-492b-8be3-51df204cfbb3" />
+ur projects here to showcase UI.*
+
+---
+
+## 🤝 Contribution
+
+Feedback and suggestions are always welcome!
+
+* Fork the repository
+* Create a new branch
+* Submit a pull request
+
+---
+
+## 📬 Contact
+
+If you want to collaborate or have any questions, feel free to reach out:
+
+* 📧 Email: lubeenaseer@gmail.com
+* 💼 LinkedIn: *linkedin.com/in/lubna-naseer-34b115389*
+
+---
+
+⭐ If you like my work, don’t forget to **star** the repository!
+
+---
+
+## 📊 GitHub Profile Widgets & Badges (Click to Support)
+
+### 👀 Visitor Count
+
+[![Visitor Count](https://komarev.com/ghpvc/?username=your-username\&label=Profile%20Views\&color=0e75b6\&style=flat)](https://github.com/your-username)
+
+---
+
+### 🏆 GitHub Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username\&theme=algolia\&no-frame=true\&row=1)](https://github.com/your-username)
+
+---
+
+### 📈 GitHub Profile Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=algolia)](https://github.com/your-username)
+
+---
+
+### 🧠 Top Skills
+
+[![Top Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username\&layout=compact\&theme=algolia)](https://github.com/your-username)
+
+---
+
+### 🔥 GitHub Streak Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username\&theme=algolia)](https://github.com/your-username)
+
+---
+
+### 🐦 Twitter Badge
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_handle?logo=twitter\&style=for-the-badge)](https://twitter.com/your_twitter_handle)
+
+---
+
+## 📝 Latest Blogs (Auto‑Updated)
+
+### 📘 DEV.to Blogs (GitHub Action)
+
+<!-- DEVTO-BLOG-LIST:START -->
+
+<!-- DEVTO-BLOG-LIST:END -->
+
+🔧 Setup Guide: [https://github.com/gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
+
+---
+
+### ✍️ Medium Blogs (GitHub Action)
+
+<!-- MEDIUM-BLOG-LIST:START -->
+
+<!-- MEDIUM-BLOG-LIST:END -->
+
+🔧 Setup Guide: [https://github.com/gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
+
+---
+
+### 🌐 Personal Blog (RSS via GitHub Action)
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+🔧 Setup Guide: [https://github.com/gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
+
+> 💡 Replace **your-username**, **your_twitter_handle**, and enable the GitHub Action to auto‑update posts.
